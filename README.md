@@ -1,3 +1,28 @@
+동해물과 백두산이   
+마르고 닳도록
+
+동해물과 배두산이
+
+마르고 닳도록
+
+![naver](https://github.com/borgssam/git_study/assets/171772501/827e6ee0-05b1-40bb-a9e5-adf526aa08ec)
+
+
+<p align="right">
+  <img src="https://github.com/borgssam/git_study/assets/171772501/827e6ee0-05b1-40bb-a9e5-adf526aa08ec" width="50%"/>
+</p>
+
+*single asterisks*
+
+_single underscores_
+
+**double asterisks**
+
+__double underscores__
+
+~~cancelline~~
+
+
 사이트주소 : <http://daum.net/>
 
 [Google](https://google.com, "google link")
@@ -81,5 +106,3 @@ This is an H2
 > - This is a first blockqute.
 >	> This is a second blockqute.
 >	>	> This is a third blockqute.
-
-
